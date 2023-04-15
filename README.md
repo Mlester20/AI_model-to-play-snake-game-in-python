@@ -1,2 +1,3 @@
 # AI_model-to-play-snake-game-in-python
 this AI model trained to play snake game.
+note the snake game code isn't mine credits to the owner of the code...
